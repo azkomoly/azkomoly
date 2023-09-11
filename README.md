@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+ <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -18,8 +18,6 @@
 
 ###
 
-<div align="left">
-<p nothing (yet) </p>
-</div> 
+<p align="left"> nothing (yet) </p>
 
 ###
