@@ -1,4 +1,4 @@
- <h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning HTML Phyton</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning HTML, Phyton</p>
 
 ###
 
@@ -18,6 +18,8 @@
 
 ###
 
-<p align="left"> nothing (yet) </p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+</div>
 
 ###
